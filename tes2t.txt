@@ -1,1 +1,1 @@
-"tproxyname:tproxypass_country-gb:geo.iproyal.com:12321"
+"tproxyname:tproxypass_country-au:geo.iproyal.com:12321"
