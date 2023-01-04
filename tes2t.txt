@@ -1,0 +1,1 @@
+"tproxyname:tproxypass_country-gb:geo.iproyal.com:12321"
